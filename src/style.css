@@ -1,0 +1,35 @@
+.card-body {
+  font-family: "Roboto Mono", monospace;
+  background-color: bisque;
+}
+.card {
+  margin-right: 500px;
+}
+
+form {
+  padding-top: 30px;
+  text-align: center;
+}
+.rain {
+  text-transform: capitalize;
+}
+.prep {
+  position: relative;
+  text-align: right;
+  top: -80px;
+  left: -119px;
+}
+
+.windy {
+  position: relative;
+  text-align: right;
+  top: -80px;
+  left: -127px;
+}
+.col-sm {
+  padding-top: 30px;
+}
+.col-md {
+  padding-bottom: 30px;
+  font-size: 13px;
+}
